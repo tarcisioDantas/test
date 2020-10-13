@@ -11,6 +11,8 @@ namespace projeto_teste {
 
             Console.WriteLine("Bom dia2!");
 
+            Console.WriteLine("Tenha um bom dia!");
+
             Console.ReadLine();
         }
     }
